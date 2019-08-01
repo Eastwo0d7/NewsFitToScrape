@@ -1,0 +1,22 @@
+{
+  "name": "newsfittoscrape",
+  "version": "1.0.0",
+  "description": "All the News thats Fit to Scrape",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eastwo0d7/NewsFitToScrape.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eastwo0d7/NewsFitToScrape/issues"
+  },
+  "homepage": "https://github.com/Eastwo0d7/NewsFitToScrape#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
